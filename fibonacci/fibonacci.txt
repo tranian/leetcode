@@ -1,0 +1,6 @@
+idea:
+
+fibonacci can be solved via recursion (add the n-2 add n-1), and add memoization to avoid redundant
+computations.
+
+this can also be solved using sliding window (iterative), where the previous two values are stored.
