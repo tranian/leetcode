@@ -1,0 +1,3 @@
+idea:
+
+take fibonacci implementation, add an extra number
