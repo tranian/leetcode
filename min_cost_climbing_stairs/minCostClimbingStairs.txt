@@ -1,0 +1,7 @@
+Idea:
+
+Originally thought of a bottom up approach, where as the array progresses it builds up the answer
+from the previous answers.  The main idea is that arr[n] will give the best cost of n.
+
+After implementing this bottom up approach, the idea for a sliding window came through as the code
+only used the previous 2 values of the current position.
